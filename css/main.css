@@ -1,0 +1,46 @@
+.btn-purple-transparent{
+    color:#63498B;
+    background-color: transparent;
+    border-color:#63498B;
+}
+
+.btn-white-transparent{
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+}
+
+.btn-success-transparent{
+    color: #5cb85c;
+    background-color: transparent;
+    border-color: #4cae4c;
+}
+
+.btn-danger-transparent{
+    color: #d9534f;
+    background-color: transparent;
+    border-color: #d43f3a;
+}
+
+.btn-warning-transparent{
+    color: #f0ad4e;
+    background-color: transparent;
+    border-color: #eea236;
+}
+
+.btn-primary-transparent{
+    color: #337ab7;
+    background-color: transparent;
+    border-color: #2e6da4;
+}
+
+.btn-white-transparent:hover,
+.btn-success-transparent:hover,
+.btn-danger-transparent:hover,
+.btn-warning-transparent:hover,
+.btn-primary-transparent:hover,
+.btn-purple-transparent
+{
+    color: #222222;
+    border-color: #222222;
+}
